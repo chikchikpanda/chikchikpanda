@@ -1,6 +1,6 @@
 - 👋 Arpita Dhamija
-- 👀 I’m interested in poetry with smell of coffee
-- 🌱 learning to live and love life,a moment at a time
+Computational physics graduate
+Numerical Analysis
 
 - 📫 mail at arpitadhamija92@gmail.com
 
