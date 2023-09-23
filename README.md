@@ -1,6 +1,6 @@
 - 👋 Arpita Dhamija
 Computational physics graduate
-Numerical Analysis
+Numerical Analysis Enthusiast
 
 - 📫 mail at arpitadhamija92@gmail.com
 
